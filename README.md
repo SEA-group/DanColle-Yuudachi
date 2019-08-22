@@ -1,15 +1,11 @@
-﻿# Poi
+﻿# [HE only] Poi
 
 ======================Presented by SEA group======================
 
-
 MMD Model: ぽんぷ長式夕立改二
 
-
 Installation: 
-
 Copy "content" into /res_mods/a.b.c.d(current version)/
-
 
 
 所使用的MMD模型：ぽんぷ長式夕立改二
